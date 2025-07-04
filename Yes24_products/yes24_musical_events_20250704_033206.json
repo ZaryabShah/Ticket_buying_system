@@ -1,0 +1,463 @@
+{
+  "metadata": {
+    "parsing_timestamp": 1751581926.6416225,
+    "parsing_date": "2025-07-04 03:32:06",
+    "source": "yes24_fetch_and_parse",
+    "fetch_metadata": {
+      "genre": "musical",
+      "genre_id": "15457",
+      "html_size": 35933,
+      "contains_yes24": true,
+      "contains_list_wrap": true
+    }
+  },
+  "summary_statistics": {
+    "total_events": 21,
+    "genres": {
+      "Musicals": 21
+    },
+    "venues": {
+      "et theatre 1": 1,
+      "Sejong Center": 1,
+      "Plus Theater": 2,
+      "Pre-order sales": 1,
+      "Kwanglim Arts Center BBCH": 2,
+      "D-CUBE LINK ARTS CENTER": 1,
+      "SOHYANG THEATRE SHINHANCARD HALL": 1,
+      "Yeungnam University Chunma Arts Center Grand hall": 1,
+      "YES24 Stage, Hall 1": 1,
+      "Big Top in Jamsil Sports Complex": 1,
+      "BLUE SQUARE SHINHANCARD HALL": 2,
+      "YES24 Art One Theater 2": 1,
+      "Big Top in Shinsegae Centum City": 1,
+      "BUSAN Dream Theatre": 1,
+      "LINK ARTS CENTER BUGS HALL": 1,
+      "Doosan Art Center Yonkang Hall": 1,
+      "LINK ARTS CENTER DREAM 1 Hall": 1,
+      "ONLINE": 1
+    },
+    "age_groups": {
+      "13 years and over": 3,
+      "8 years and over": 9,
+      "-": 1,
+      "14 years and over": 2,
+      "All": 2,
+      "7 years and over": 1,
+      "16 years and over": 2,
+      "--": 1
+    },
+    "date_range": {
+      "events_by_month": {
+        "Aug": 5,
+        "Sep": 1,
+        "Jul": 4,
+        "Jun": 4,
+        "Oct": 1,
+        "May": 2,
+        "Apr": 2
+      }
+    },
+    "errors": 0
+  },
+  "events": [
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54416",
+      "event_id": "54416",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202506/20250627/20250627-54416.jpg",
+      "title": "Musical [LE MASQUE]",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Aug 06 ~ Nov 09, 2025",
+        "venue": "et theatre 1",
+        "age_group": "13 years and over",
+        "duration": "95 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54416",
+      "metadata": {
+        "parsed_timestamp": 1751581926.636259,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54259",
+      "event_id": "54259",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202506/20250618/20250618-54259.jpg",
+      "title": "Notre-Dame de Paris French Original Tour - the 20th Anniversary",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Sep 03 ~ 27, 2025",
+        "venue": "Sejong Center",
+        "age_group": "8 years and over",
+        "duration": "150 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54259",
+      "metadata": {
+        "parsed_timestamp": 1751581926.636259,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54239",
+      "event_id": "54239",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202506/20250618/20250618-54239.jpg",
+      "title": "Musical [WASTED]",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Aug 06 ~ Oct 26, 2025",
+        "venue": "Plus Theater",
+        "age_group": "13 years and over",
+        "duration": "135 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54239",
+      "metadata": {
+        "parsed_timestamp": 1751581926.636259,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54179",
+      "event_id": "54179",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202506/20250623/20250623-54179.jpg",
+      "title": "2024 Musical [SALIERI] LIVE OST，DVD",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "--",
+        "venue": "Pre-order sales",
+        "age_group": "-",
+        "duration": "--"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54179",
+      "metadata": {
+        "parsed_timestamp": 1751581926.636259,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54171",
+      "event_id": "54171",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202506/20250604/20250604-54171.jpg",
+      "title": "Musical [MARIE CURIE]",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Jul 25 ~ Oct 19, 2025",
+        "venue": "Kwanglim Arts Center BBCH",
+        "age_group": "8 years and over",
+        "duration": "150 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54171",
+      "metadata": {
+        "parsed_timestamp": 1751581926.636259,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54042",
+      "event_id": "54042",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202505/20250523/20250523-54042.jpg",
+      "title": "Showmusical Again [DreamHigh] Encore",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Jun 17~ Jul 20, 2025",
+        "venue": "D-CUBE LINK ARTS CENTER",
+        "age_group": "8 years and over",
+        "duration": "160 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54042",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6372561,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54004",
+      "event_id": "54004",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202505/20250520/20250520-54004.jpg",
+      "title": "[BUSAN] Showmusical Again [DreamHigh]",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Aug 08 ~ 10, 2025",
+        "venue": "SOHYANG THEATRE SHINHANCARD HALL",
+        "age_group": "8 years and over",
+        "duration": "160 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54004",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6372561,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54000",
+      "event_id": "54000",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202505/20250520/20250520-54000.jpg",
+      "title": "[DAEGU] Showmusical Again [DreamHigh]",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Aug 01 ~ 03, 2025",
+        "venue": "Yeungnam University Chunma Arts Center Grand hall",
+        "age_group": "8 years and over",
+        "duration": "160 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=54000",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6372561,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53937",
+      "event_id": "53937",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202505/20250515/20250515-53937.jpg",
+      "title": "Musical [Deung Deung Gok]",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Jun 24 ~ Sep 14, 2025",
+        "venue": "YES24 Stage, Hall 1",
+        "age_group": "14 years and over",
+        "duration": "100 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53937",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6382532,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53879",
+      "event_id": "53879",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202505/20250512/20250512-53879.jpg",
+      "title": "[SEOUL] Cirque du Soleil KOOZA",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Oct 11 ~ Dec 28, 2025",
+        "venue": "Big Top in Jamsil Sports Complex",
+        "age_group": "All",
+        "duration": "130 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53879",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6382532,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53789",
+      "event_id": "53789",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202504/20250423/20250423-53644.jpg",
+      "title": "Musical Wicked - YES24DAY",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Jul 19, 2025",
+        "venue": "BLUE SQUARE SHINHANCARD HALL",
+        "age_group": "8 years and over",
+        "duration": "170 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53789",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6386244,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53723",
+      "event_id": "53723",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202505/20250503/20250503-53723_1.jpg",
+      "title": "MUSICAL [Little Jack]",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Jun 28 ~ Sep 21, 2025",
+        "venue": "YES24 Art One Theater 2",
+        "age_group": "7 years and over",
+        "duration": "110 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53723",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6386244,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53669",
+      "event_id": "53669",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202504/20250428/20250428-53669.jpg",
+      "title": "[BUSAN] Cirque du Soleil KOOZA",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Aug 21 ~ Sep 28, 2025",
+        "venue": "Big Top in Shinsegae Centum City",
+        "age_group": "All",
+        "duration": "130 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53669",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6386244,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53644",
+      "event_id": "53644",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202504/20250423/20250423-53644.jpg",
+      "title": "Musical Wicked",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Jul 12 ~ Oct 26, 2025",
+        "venue": "BLUE SQUARE SHINHANCARD HALL",
+        "age_group": "8 years and over",
+        "duration": "170 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53644",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6386244,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53547",
+      "event_id": "53547",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202504/20250415/20250415-53547.jpg",
+      "title": "Musical Aladdin - BUSAN",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Jul 11 ~ Sep 28, 2025",
+        "venue": "BUSAN Dream Theatre",
+        "age_group": "8 years and over",
+        "duration": "150 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53547",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6386244,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53488",
+      "event_id": "53488",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202506/20250623/20250623-53488.jpg",
+      "title": "MUSICAL [WILD GREY]",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "May 21 ~ Aug 17, 2025",
+        "venue": "LINK ARTS CENTER BUGS HALL",
+        "age_group": "16 years and over",
+        "duration": "110 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53488",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6396253,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53426",
+      "event_id": "53426",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202506/20250620/20250620-53426.jpg",
+      "title": "Musical [bare the musical]",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Jun 03 ~ Sep 14, 2025",
+        "venue": "Doosan Art Center Yonkang Hall",
+        "age_group": "16 years and over",
+        "duration": "165 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53426",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6396253,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53227",
+      "event_id": "53227",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202506/20250630/20250630-53227.jpg",
+      "title": "MUSICAL [GUTENBERG!]",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Apr 30~ Jul 20, 2025",
+        "venue": "Plus Theater",
+        "age_group": "8 years and over",
+        "duration": "105 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53227",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6396253,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53114",
+      "event_id": "53114",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202503/20250318/20250318-53114.jpg",
+      "title": "Musical [The Lord of Poenari]",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "Apr 16 ~ Jul 07, 2025",
+        "venue": "LINK ARTS CENTER DREAM 1 Hall",
+        "age_group": "13 years and over",
+        "duration": "95 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53114",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6396253,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53040",
+      "event_id": "53040",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202503/20250306/20250306-53040.jpg",
+      "title": "MUSICAL [The Bridges of Madison County]",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "May 01 ~ Jul 13, 2025",
+        "venue": "Kwanglim Arts Center BBCH",
+        "age_group": "14 years and over",
+        "duration": "170 minutes"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=53040",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6406236,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    },
+    {
+      "event_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=51497",
+      "event_id": "51497",
+      "poster_image": "https://stkfile.yes24.com/upload2/PerfBlog/202410/20241028/20241028-51497.jpg",
+      "title": "Muscial [Dracula] OST",
+      "details": {
+        "genre": "[Musicals]",
+        "date_time": "--",
+        "venue": "ONLINE",
+        "age_group": "--",
+        "duration": "--"
+      },
+      "booking_url": "/Pages/English/Perf/FnPerfDeail.aspx?IdPerf=51497",
+      "metadata": {
+        "parsed_timestamp": 1751581926.6406236,
+        "parsed_date": "2025-07-04 03:32:06",
+        "source": "yes24_fetch_and_parse"
+      }
+    }
+  ]
+}
